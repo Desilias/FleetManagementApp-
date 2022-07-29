@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FleetManagementApp</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCC2SD5h2QoRj2VjDdEbLbs2l4X6ju9nrg</string>
+</resources>
